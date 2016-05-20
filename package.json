@@ -1,0 +1,22 @@
+{
+  "name": "spawn-on-close-code",
+  "version": "0.0.1",
+  "description": "just a test case for spwn on close event callback signature",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/spawn-on-close-code.git"
+  },
+  "keywords": [
+    "spawn"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/spawn-on-close-code/issues"
+  },
+  "homepage": "https://github.com/zhuangya/spawn-on-close-code#readme"
+}
