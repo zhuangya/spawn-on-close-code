@@ -22,5 +22,6 @@
   "dependencies": {
     "cross-spawn": "3.0.1",
     "cross-spawn-async": "2.2.4"
-  }
+  },
+  "engine": ">=0.10"
 }
