@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/zhuangya/spawn-on-close-code#readme",
   "dependencies": {
+    "cross-spawn": "^3.0.1",
     "cross-spawn-async": "^2.2.4"
   }
 }
