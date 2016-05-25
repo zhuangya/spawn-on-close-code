@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/zhuangya/spawn-on-close-code/issues"
   },
-  "homepage": "https://github.com/zhuangya/spawn-on-close-code#readme"
+  "homepage": "https://github.com/zhuangya/spawn-on-close-code#readme",
+  "dependencies": {
+    "cross-spawn-async": "^2.2.4"
+  }
 }
